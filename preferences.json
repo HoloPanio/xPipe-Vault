@@ -7,5 +7,6 @@
   "dontCachePasswords" : false,
   "encryptAllVaultData" : false,
   "apiKey" : "83277189-3411-42c4-8fc9-dcfe8e4c08a6",
-  "workspaceLock" : null
+  "workspaceLock" : null,
+  "hideVaultEntryNames" : false
 }
