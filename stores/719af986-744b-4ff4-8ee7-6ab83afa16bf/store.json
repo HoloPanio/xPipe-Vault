@@ -1,0 +1,10 @@
+{
+  "type" : "shellEnvironment",
+  "commands" : null,
+  "host" : "a07367ac-aa09-4e6a-9c0f-c502338eec50",
+  "shell" : null,
+  "elevated" : true,
+  "user" : null,
+  "scripts" : null,
+  "defaultEnvironment" : null
+}
