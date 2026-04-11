@@ -1,0 +1,12 @@
+{
+  "uuid" : "0249c8ff-f3b9-46ab-b62a-b91f9e4b41e1",
+  "name" : "TTS-CODE-SERVER",
+  "categoryUuid" : "07d3d775-5ff3-4056-afe3-cebc08f0750a",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0,
+  "tags" : [ ]
+}

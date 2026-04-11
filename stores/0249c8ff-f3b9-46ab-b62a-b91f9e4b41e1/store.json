@@ -1,0 +1,14 @@
+{
+  "type" : "ssh",
+  "gateway" : null,
+  "useGatewayWithProxyJump" : false,
+  "host" : "172.60.10.10",
+  "port" : 22,
+  "identity" : {
+    "type" : "ref",
+    "ref" : "6b36c7d5-516e-4336-977b-9148d8343058"
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "additionalOptions" : null
+}
