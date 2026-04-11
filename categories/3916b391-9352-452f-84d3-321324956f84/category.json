@@ -1,0 +1,14 @@
+{
+  "uuid" : "3916b391-9352-452f-84d3-321324956f84",
+  "name" : "Total Tech Solutions",
+  "parentUuid" : "bfb0b51a-e7a3-4ce4-8878-8d4cb5828d6c",
+  "config" : {
+    "color" : null,
+    "dontAllowScripts" : null,
+    "confirmAllModifications" : null,
+    "sync" : true,
+    "freezeConfigurations" : null,
+    "defaultIdentityStore" : null
+  },
+  "icon" : null
+}
