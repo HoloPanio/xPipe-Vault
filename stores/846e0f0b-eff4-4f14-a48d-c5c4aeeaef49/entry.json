@@ -1,0 +1,12 @@
+{
+  "uuid" : "846e0f0b-eff4-4f14-a48d-c5c4aeeaef49",
+  "name" : "TTS Portainer Dev Server",
+  "categoryUuid" : "07d3d775-5ff3-4056-afe3-cebc08f0750a",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0,
+  "tags" : [ ]
+}
