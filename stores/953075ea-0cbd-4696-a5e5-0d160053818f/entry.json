@@ -1,0 +1,12 @@
+{
+  "uuid" : "953075ea-0cbd-4696-a5e5-0d160053818f",
+  "name" : "Podman containers",
+  "categoryUuid" : "51d7db05-2220-47c8-b671-ac73361cf99d",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0,
+  "tags" : [ ]
+}
