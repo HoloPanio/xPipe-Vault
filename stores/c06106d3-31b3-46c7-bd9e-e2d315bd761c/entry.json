@@ -1,0 +1,12 @@
+{
+  "uuid" : "c06106d3-31b3-46c7-bd9e-e2d315bd761c",
+  "name" : "TTS-1721-SVR",
+  "categoryUuid" : "51d7db05-2220-47c8-b671-ac73361cf99d",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0,
+  "tags" : [ ]
+}

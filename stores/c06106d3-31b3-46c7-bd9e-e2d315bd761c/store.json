@@ -1,0 +1,35 @@
+{
+  "type" : "ssh",
+  "proxy" : "f0ec68aa-63f5-405c-b178-9a4454556d6b",
+  "useGatewayWithProxyJump" : false,
+  "host" : "172.60.5.87",
+  "port" : 22,
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "totaltech",
+      "password" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "nxhRwemaFuhKV_EI2Nqawtx7YXIWgscOvmNLl25VpnrTfAUwv6FBlZE7x_hplDWZthMLBXNeTDrJrC3uqm4GymjoYW-xLx86_ko-7JdY9CILgLs9HMGh8LRAiQdKdgJ42eaWx1HuH1gFJb0T-H4wDWf9Mx7Ch6vR78J0-N8AiWACYu3z9Pwh9X910oJdu4jc4Mo4MGjYoA795Qv1uspTozn-AL_c2dE16Q2PEUo="
+        },
+        "encryptedToken" : {
+          "token" : "6MMfByD5RQV5usA5T8_rG-va61bNeiYW7AecfTFR2gFo"
+        }
+      },
+      "sshIdentity" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "ezhDr44aeA8XyzJXdQWUdp6bzW7zUYXzyNNUMZSzYgmqWLVXHrFR247u-xZ8EmqJeA=="
+        },
+        "encryptedToken" : {
+          "token" : "6MMfByD5RQV5usA5T8_rG-va61bNeiYW7AecfTFR2gFo"
+        }
+      }
+    }
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "additionalOptions" : null
+}
