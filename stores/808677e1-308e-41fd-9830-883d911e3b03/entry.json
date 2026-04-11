@@ -1,0 +1,12 @@
+{
+  "uuid" : "808677e1-308e-41fd-9830-883d911e3b03",
+  "name" : "mssql-server",
+  "categoryUuid" : "07d3d775-5ff3-4056-afe3-cebc08f0750a",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0,
+  "tags" : [ ]
+}
