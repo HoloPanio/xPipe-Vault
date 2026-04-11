@@ -1,0 +1,6 @@
+{
+  "type" : "docker",
+  "context" : "fb87cad9-2f43-456d-9ebd-6c994970f383",
+  "composeProject" : "607865f7-8157-4e55-8e8f-f70af9299265",
+  "containerName" : "portainer"
+}
