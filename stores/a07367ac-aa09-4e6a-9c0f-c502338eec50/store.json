@@ -1,0 +1,35 @@
+{
+  "type" : "ssh",
+  "proxy" : "f0ec68aa-63f5-405c-b178-9a4454556d6b",
+  "useGatewayWithProxyJump" : false,
+  "host" : "10.221.1.105",
+  "port" : 22,
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "ttsunifi2",
+      "password" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "EFxKPic67S5E60N91kv8qWiU4MubjwC54-1XEwHpV6Xr8ssW8npTGsOcCOcb0UUvmRSkChsiHKnh2xQIlBBoPOfSp2s8tzwcIW6gPiileQsR9UBDkB7q90bIzKTS543FRPRKJSllYbL9r2pQqfFQ8SzFZhiCdFQqBoozdQfx5sR7RbFggwsMXVXlqC0YjvBfCvCNLwjfaDsiGo7mH2gCUeQ9-FVqmDkwXycqXWqnM3UvaAURyg=="
+        },
+        "encryptedToken" : {
+          "token" : "2Gb8LXbXSAZzpL56VMOYRAOue08rLWJ2fTPpMy4_9BX_"
+        }
+      },
+      "sshIdentity" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "F7ROMnOIQDvyOGsg6HnAcx-LBSSKa1-E_m62KZ_KCI1QFL7w8HRZpWckXuEoiB1JAQ=="
+        },
+        "encryptedToken" : {
+          "token" : "2Gb8LXbXSAZzpL56VMOYRAOue08rLWJ2fTPpMy4_9BX_"
+        }
+      }
+    }
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : true,
+  "additionalOptions" : null
+}
