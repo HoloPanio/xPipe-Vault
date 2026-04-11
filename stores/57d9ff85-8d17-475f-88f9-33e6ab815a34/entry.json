@@ -1,0 +1,12 @@
+{
+  "uuid" : "57d9ff85-8d17-475f-88f9-33e6ab815a34",
+  "name" : "outline-redis-1",
+  "categoryUuid" : "07d3d775-5ff3-4056-afe3-cebc08f0750a",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0,
+  "tags" : [ ]
+}
