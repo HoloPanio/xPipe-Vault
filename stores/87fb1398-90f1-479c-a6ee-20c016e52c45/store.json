@@ -1,0 +1,35 @@
+{
+  "type" : "ssh",
+  "proxy" : "f0ec68aa-63f5-405c-b178-9a4454556d6b",
+  "useGatewayWithProxyJump" : false,
+  "host" : "192.168.31.92",
+  "port" : 22,
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "ttsk8s_user",
+      "password" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "L-UqQy0O6vhlrJ-88KhKceo95pCUA-13KBDbpEN22do_VK87-CtO39Rxh136KCaDqPUKMA23AdsBggizazgKOmZIlNwLi1JBDYjX7-sAwG-qlQk7Bv0fgQes9daGY4lnbdWJuDUJgQ3GO075Q8SA0-7XptrNwE55Whjfw3y5AkmoVvacG-4sJikR23xcpqmQuaFKaKvUnMmZokCLiJJdZViiz_MDL16fMByvrvZTLBk8vHgdBw=="
+        },
+        "encryptedToken" : {
+          "token" : "2Gb8LXbXSAZzpL56VMOYRAOue08rLWJ2fTPpMy4_9BX_"
+        }
+      },
+      "sshIdentity" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "BlJMPFNUAD-Ad5qD5e9xKxKWTbaTDCX2XMzQl-dErt8avkAli9hgjKFfi7bGge-Qmg=="
+        },
+        "encryptedToken" : {
+          "token" : "2Gb8LXbXSAZzpL56VMOYRAOue08rLWJ2fTPpMy4_9BX_"
+        }
+      }
+    }
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "additionalOptions" : null
+}
