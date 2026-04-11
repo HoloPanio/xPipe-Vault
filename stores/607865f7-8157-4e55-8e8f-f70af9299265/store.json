@@ -1,0 +1,7 @@
+{
+  "type" : "dockerComposeProject",
+  "context" : "fb87cad9-2f43-456d-9ebd-6c994970f383",
+  "name" : "totaltech",
+  "configFiles" : [ "/home/totaltech/portainer-compose.yaml" ],
+  "restriction" : null
+}

@@ -1,0 +1,12 @@
+{
+  "uuid" : "607865f7-8157-4e55-8e8f-f70af9299265",
+  "name" : "totaltech",
+  "categoryUuid" : "07d3d775-5ff3-4056-afe3-cebc08f0750a",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0,
+  "tags" : [ ]
+}
