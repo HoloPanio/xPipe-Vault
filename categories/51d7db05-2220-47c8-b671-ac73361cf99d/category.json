@@ -1,0 +1,13 @@
+{
+  "uuid" : "51d7db05-2220-47c8-b671-ac73361cf99d",
+  "name" : "Production",
+  "parentUuid" : "3916b391-9352-452f-84d3-321324956f84",
+  "config" : {
+    "color" : null,
+    "dontAllowScripts" : null,
+    "confirmAllModifications" : null,
+    "sync" : null,
+    "freezeConfigurations" : null,
+    "defaultIdentityStore" : null
+  }
+}
