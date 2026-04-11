@@ -1,0 +1,6 @@
+{
+  "type" : "docker",
+  "context" : "fb87cad9-2f43-456d-9ebd-6c994970f383",
+  "composeProject" : "808677e1-308e-41fd-9830-883d911e3b03",
+  "containerName" : "mssql"
+}
